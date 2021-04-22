@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
+  
+# It'sa me, Vhyrro!
 
-<!--
-**Vhyrro/Vhyrro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Yes, it's pronounced Vai-ro, like cairo. I *specifically* made the 'h' silent to provoke such a pronunciation, so don't you dare say it otherwise :P
+
+I'm a guy who just enjoys making software, games, music, models, reverse engineering, NES development etc. - anything that's related to computers and creativity to be honest.
+
+### Projects I Maintain
+Whenever I work on a project, I try to give it my all. That's why I make few projects, but make them big projects.
+- [Neorg](https://github.com/vhyrro/neorg) - The real competitor to emacs's org mode tailored to neovim. Runs on the .norg file format.
+- [Super Robin Hood NES Source](https://github.com/vhyrro/SuperRobinHoodNESSource) - the Quattro Adventure: Super Robin Hood source code. Paired with a RAM Map and code explanations. I've currently left this project behind for a while, as I would like to prioritize neorg; but the project isn't abandoned! Work will still be done on it, so fear not :)
